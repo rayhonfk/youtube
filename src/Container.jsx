@@ -5,6 +5,7 @@ function Container() {
     <div className='container'>
     <Card />
     <Card />
+    <Card />
     <Card /> 
     <Card /> 
     <Card />
