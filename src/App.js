@@ -1,16 +1,12 @@
 import React from 'react'
-import YouTube from './YouTube/Sidebar'
+import Reducer from './Reducer';
 
-
-// import YouTube from "./YouTube"
-
- function App() {
+function App() {
   return (
-    <div style={{padding:"20px"}}>
-      <YouTube/>
+    <div>
+      <Reducer/>
     </div>
   )
 }
- export default App
 
- 
+export default App
